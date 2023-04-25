@@ -1,0 +1,1 @@
+The _printf function is used to format and output strings, characters, and integers to the standard output stream. It takes a format string as its first argument, which can contain zero or more directives that specify how the output should be formatted. The function returns the number of characters printed , or a negative value if an output error is encountereed
