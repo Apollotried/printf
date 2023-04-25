@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _printf - just like printf
+ * _printf - just like printf function
  * @format: the format to check
  * Return: int
  */
