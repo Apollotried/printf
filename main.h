@@ -7,9 +7,9 @@
 #include <limits.h>
 
 /**
- * struct op - flag and the aproprite func
- * @c: the flag
- * @f: the func
+ * struct op - Flag and the aproprite function
+ * @c: The flag
+ * @f: The function
  */
 
 typedef struct op
